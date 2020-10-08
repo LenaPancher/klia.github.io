@@ -47,15 +47,15 @@ function topFunction() {
 
 /* Redirection des boutons "en savoir plus" de l'acceuil */
 function click1() {
-    document.location.href = "produit.html#Article8";
+    document.location.href = "https://lenapancher.github.io/klia.github.io/produit.html#BasCase";
 }
 
 function click2() {
-    document.location.href = "produit.html#Article15";
+    document.location.href = "https://lenapancher.github.io/klia.github.io/produit.html#AccessoiresCase";
 }
 
 function click3() {
-    document.location.href = "produit.html#Article1";
+    document.location.href = "https://lenapancher.github.io/klia.github.io/produit.html#HautCase";
 }
 
 /* Bouton */
