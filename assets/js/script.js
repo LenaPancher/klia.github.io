@@ -47,15 +47,15 @@ function topFunction() {
 
 /* Redirection des boutons "en savoir plus" de l'acceuil */
 function click1() {
-    document.location.href = "produit.html";
+    document.location.href = "produit.html#Article8";
 }
 
 function click2() {
-    document.location.href = "produit.html";
+    document.location.href = "produit.html#Article15";
 }
 
 function click3() {
-    document.location.href = "produit.html";
+    document.location.href = "produit.html#Article1";
 }
 
 /* Bouton */
