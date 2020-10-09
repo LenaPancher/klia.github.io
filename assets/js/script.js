@@ -1232,28 +1232,28 @@ function ReplaceAccessoires() {
     document.location.href = "produit.html#AccessoiresCase";
 }
 
-if (document.location.href === "produit.html#HautCase" || document.location.href === "http://127.0.0.1:5500/produit.html#HautCase") {
+if (document.location.href === "produit.html#HautCase" || document.location.href === "https://lenapancher.github.io/klia.github.io/produit.html#HautCase") {
 
     BlocHaut.style.display = "block";
     BlocBas.style.display = "none";
     BlocChaussures.style.display = "none";
     BlocAccessoires.style.display = "none";
 
-} else if (document.location.href === "produit.html#BasCase" || document.location.href === "http://127.0.0.1:5500/produit.html#BasCase") {
+} else if (document.location.href === "produit.html#BasCase" || document.location.href === "https://lenapancher.github.io/klia.github.io/produit.html#BasCase") {
 
     BlocBas.style.display = "block";
     BlocHaut.style.display = "none";
     BlocChaussures.style.display = "none";
     BlocAccessoires.style.display = "none";
 
-} else if (document.location.href === "produit.html#ChaussuresCase" || document.location.href === "http://127.0.0.1:5500/produit.html#ChaussuresCase") {
+} else if (document.location.href === "produit.html#ChaussuresCase" || document.location.href === "https://lenapancher.github.io/klia.github.io/produit.html#ChaussuresCase") {
 
     BlocChaussures.style.display = "block";
     BlocHaut.style.display = "none";
     BlocBas.style.display = "none";
     BlocAccessoires.style.display = "none";
 
-} else if (document.location.href === "produit.html#AccessoiresCase" || document.location.href === "http://127.0.0.1:5500/produit.html#AccessoiresCase") {
+} else if (document.location.href === "produit.html#AccessoiresCase" || document.location.href === "https://lenapancher.github.io/klia.github.io/produit.html#AccessoiresCase") {
 
     BlocAccessoires.style.display = "block";
     BlocHaut.style.display = "none";
